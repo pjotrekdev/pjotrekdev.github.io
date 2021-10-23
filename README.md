@@ -1,10 +1,7 @@
-![pjotrek](https://cdn.discordapp.com/attachments/781418730038493185/901361420128636948/pjotrek.png)
+# Responsive Portfolio Website Alexa
+## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
+### Responsive Portfolio Website Alexa
+Responsive Portfolio Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer.
+Don't forget to join the channel for more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-## Who's pjotrek?
-
-Pjotrek is just me.
-I love to listen music, talk with friends, make graphics!
-* Contact: pjotrek#8888
-* [Explore my first site]()
-* [Explore my projects](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-
+![Resume cv](/preview.png)
